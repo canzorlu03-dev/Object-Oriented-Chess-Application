@@ -1,9 +1,3 @@
-# Object-Oriented-Chess-Application
-
-Below is the complete, emoji-free, and professional **README.md** content. You can copy the text from the box below and paste it directly into your GitHub repository.
-
----
-
 # Object-Oriented Chess Application
 
 This project is a fully functional chess application developed using Java and JavaFX. It utilizes Object-Oriented Programming (OOP) principles to manage complex game logic and provides a persistent gaming experience through state-saving capabilities.
