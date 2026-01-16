@@ -109,5 +109,9 @@ Pawn.java: Complex logic for Pawn movements, including forward steps and diagona
 Can Zorlu
 Project Duration: September 2024 - December 2024
 
+## User Interface
+<p align="center">
+  <img src="ProjectUserIntefaceImage.png" width="600">
+</p>
 
 
